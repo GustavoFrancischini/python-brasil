@@ -1,2 +1,2 @@
-# python-brazil
-These are some exercise lists provided by the Python Brasil website. The exercises are divided into categories (and their respective notebooks) and aim to follow an increasing order of difficulty. Each exercise is independent of the others.
+# Python Brasil
+Estas são algumas listas de exercícios fornecidas pelo site Python Brasil. Os exercícios são divididos em categorias (e seus respectivos cadernos) e têm como objetivo seguir uma ordem crescente de dificuldade. Cada exercício é independente dos outros.
